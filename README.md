@@ -1,2 +1,3 @@
-# crypto
-An api that allows the user to encrypt and decrypt a folder and all files recursively with a password
+# Simple Crypto Package
+
+This is a package which encrypts and decrypts files by a password string.
